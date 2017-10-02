@@ -8,4 +8,12 @@ bug introduced
 
 4th edition
 
+Feature addition started
+
+Feature - 1st edition
+
+Feature - 2nd edition
+
+Feature - 3rd edition
+
 5th edition - after branching 'new_feature'
