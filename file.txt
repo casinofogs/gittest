@@ -16,3 +16,5 @@ Feature - 2nd edition
 Feature - 3rd edition
 
 5th edition - after branching 'new_feature'
+
+checking fetch operation
