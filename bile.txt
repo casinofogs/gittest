@@ -21,3 +21,5 @@ Feature - 3rd edition
 checking fetch operation
 
 testing remote push operation
+
+6th edition - after branching 'new_feature2'
